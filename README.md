@@ -2,7 +2,7 @@
 
 <div align="center">
   <br/>
-  <h1 style="color: green">VET CLINIC</h1>
+  <h1 style="color: green">Patient Care DB </h1>
   <br/>
 </div>
 
@@ -28,9 +28,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 VET CLINIC <a name="about-project"></a>
+# 📖 PATIENT CARE DB <a name="about-project"></a>
 
-VET CLINIC is a project that uses a PostgreSQL database. It is designed to facilitate the management of a veterinary clinic, providing storage and organization of data related to animals, animals's owners, clicnic employees, and more.
+PATIENT CARE DB is a project that uses a PostgreSQL database. It is designed to facilitate the management of a veterinary clinic, providing storage and organization of data related to animals, animals's owners, clicnic employees, and more.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,12 +54,6 @@ VET CLINIC is a project that uses a PostgreSQL database. It is designed to facil
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Cooming soon 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,6 +120,11 @@ Start Exploring:
 
 - GitHub: [@jicamargo](https://github.com/jicamargo)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jorgecamargog/?locale=en_US)
+
+👤 ** MARIANO BENJAMIN MENDEZ GARCIA **
+
+- GitHub: [@jicamargo](https://github.com/benja27)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/benjamendez2699)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
