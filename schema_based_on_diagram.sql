@@ -1,9 +1,6 @@
 -- Create the database
 CREATE DATABASE PatientCareDB;
 
--- Connect to the database
-\c PatientCareDB;
-
 -- Create the 'patients' table
 CREATE TABLE patients (
     id SERIAL PRIMARY KEY,
