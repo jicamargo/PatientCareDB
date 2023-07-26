@@ -30,7 +30,12 @@
 
 # 📖 PATIENT CARE DB <a name="about-project"></a>
 
-PATIENT CARE DB is a project that uses a PostgreSQL database. It is designed to facilitate the management of a veterinary clinic, providing storage and organization of data related to animals, animals's owners, clicnic employees, and more.
+PATIENT CARE DB is a project that uses a PostgreSQL database. It is designed to facilitate the management of clinic, providing storage and organization of data related to medical treatments, invoices and patients.
+
+## Entity Relationship Diagram
+The database schema is built from the ER diagram below.
+
+![ERD](clinic_diagram.png)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,9 +52,10 @@ PATIENT CARE DB is a project that uses a PostgreSQL database. It is designed to 
 
 ### Key Features <a name="key-features"></a>
 
-- **[Advanced Search and Filtering:]** The ability to search for animals based on various criteria, such as name, birthdate, neutered status, escape attempts, and weight. This allows clinic staff to quickly find and manage specific animals based on specific requirements.
-- **[Reporting and Analytics:]** The capability to generate reports and extract valuable insights from the data. For example, analyzing the number of escape attempts and neutering rates can help identify patterns and inform decision-making processes within the clinic.
-- **[Data Management and Organization:]** Efficiently manage and organize animal-related data, including medical records, appointments, and more. This feature enables smooth operation and ensures the availability of essential information when needed, promoting effective veterinary care and administration.
+- Created patients' data table schema.
+- Created invoices table schema.
+- Created medical history table schema.
+- Created treatment table schema.
 
 
 
@@ -126,6 +132,12 @@ Start Exploring:
 - GitHub: [@jicamargo](https://github.com/benja27)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/benjamendez2699)
 
+
+👤 Sylvester Wamaya
+
+- GitHub: [@githubhandle](https://github.com/sylvester-wamaya)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sylvester-wamaya-b11a93112/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -137,7 +149,7 @@ Start Exploring:
 - [ ] **[User Interface (UI) Enhancements]:**
   Develop a user-friendly and intuitive front-end interface using a modern web framework like React or Vue.js. This would provide a responsive and interactive user experience for accessing and managing the veterinary clinic data.
 - [ ] **[Appointment Scheduling and Notifications]:**
-  Implement a feature for appointment scheduling, allowing clinic staff to book appointments for animals and send   notifications to clients. This could include features such as calendar integration, reminders, and email or SMS notifications to help streamline the appointment management process.
+  Implement a feature for appointment scheduling, allowing clinic staff to book appointments and send   notifications to clients. This could include features such as calendar integration, reminders, and email or SMS notifications to help streamline the appointment management process.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
